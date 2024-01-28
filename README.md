@@ -1,1 +1,1 @@
-Branch Full stack 
+Branch de produção, para releases do projeto 
