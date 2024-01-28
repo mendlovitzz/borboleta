@@ -1,1 +1,1 @@
-Branch Full stack 
+Branch para testers e QA
