@@ -1,1 +1,1 @@
-Branch para asdminstradores do banco de dados
+Branch para adminstradores do banco de dados
